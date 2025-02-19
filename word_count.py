@@ -1,6 +1,5 @@
 def word_count(file_path: str) -> dict:
     """
-
     Count the frequency of each word in a file.
     """
     counts = {}
